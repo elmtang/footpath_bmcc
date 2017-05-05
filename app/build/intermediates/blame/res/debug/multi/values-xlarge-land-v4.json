@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Erii\\StudioProjects\\FootPath_021017\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "outputFile": "C:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "C:\\Users\\Erii\\.android\\build-cache\\0c61dff6fb43c37ff8721f516e93dc6103af76f4\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "file": "C:\\Users\\Erii\\.android\\build-cache\\1bf0a59cbc37f39186fef0f645f50dc4bfa575d8\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

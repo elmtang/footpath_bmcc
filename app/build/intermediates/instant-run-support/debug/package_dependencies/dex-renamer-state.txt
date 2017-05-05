@@ -1,0 +1,13 @@
+#Fri May 05 13:21:33 EDT 2017
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.3=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b59646d4916221c7657fe446aaa1167c08227a4c
+base.2=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.0_be7e7689bc59413045187363508df3b6127e6767
+base.1=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5829870c700a0ea893662c63b61cd328a8d0c78a
+base.0=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.0_a8e08c718fddb0338e44b020b333e9553c6af150
+file.3=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b59646d4916221c7657fe446aaa1167c08227a4c\\classes.dex
+file.2=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.0_be7e7689bc59413045187363508df3b6127e6767\\classes.dex
+file.1=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5829870c700a0ea893662c63b61cd328a8d0c78a\\classes.dex
+file.0=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.0_a8e08c718fddb0338e44b020b333e9553c6af150\\classes.dex

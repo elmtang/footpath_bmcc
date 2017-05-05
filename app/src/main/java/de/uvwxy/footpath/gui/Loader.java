@@ -51,10 +51,9 @@ public class Loader extends Activity {
 	private String destinationRoom;
 
 	private static String[] rooms = null;			// Array of all room names added to drop down lists
-	private LocationManager locationManager;
 	
 	// GUI
-	private static final int NUMBER_SELECT_ACTIVITY_RESULT_CODE = 0;
+	private static final int ROOM_SELECT_ACTIVITY_RESULT_CODE = 0;
 	private boolean startPressed = false;
 	private TextView startTextView;
 
@@ -85,20 +84,18 @@ public class Loader extends Activity {
 			longToast("Error: io error:\n\n" + e);
 		}
 		this.setTitle("Footpath");
-		
-		locationManager = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
 	}
 
 	public void selectStart(View view){
 		startPressed = true;
 		Intent numbersIntent = new Intent(Loader.this, NumberSelect.class);
-		startActivityForResult(numbersIntent, NUMBER_SELECT_ACTIVITY_RESULT_CODE);
+		startActivityForResult(numbersIntent, ROOM_SELECT_ACTIVITY_RESULT_CODE);
 	}
 
 	public void selectDestination(View view){
 		startPressed = false;
 		Intent numbersIntent = new Intent(Loader.this, NumberSelect.class);
-		startActivityForResult(numbersIntent, NUMBER_SELECT_ACTIVITY_RESULT_CODE);
+		startActivityForResult(numbersIntent, ROOM_SELECT_ACTIVITY_RESULT_CODE);
 	}
 
 	// This method is called when the second activity finishes
@@ -106,8 +103,11 @@ public class Loader extends Activity {
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		super.onActivityResult(requestCode, resultCode, data);
 
+		Log.i("onActivityResult", "here");
+		Log.i("requestCode = ", Integer.toString(requestCode));
+		Log.i("resultCode = ", Integer.toString(resultCode));
 		// check that it is the SecondActivity with an OK result
-		if (requestCode == NUMBER_SELECT_ACTIVITY_RESULT_CODE) {
+		if (requestCode == ROOM_SELECT_ACTIVITY_RESULT_CODE) {
 			if (resultCode == RESULT_OK) {
 
 				// get String data from Intent

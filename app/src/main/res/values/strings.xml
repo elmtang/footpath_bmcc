@@ -4,4 +4,5 @@
     <string name="app_name">FootPath</string>
     <string name="vista">Turn Vista On</string>
     <string name="sensor_reading">Sensor Reading</string>
+    <string name="_switch">Switch</string>
 </resources>

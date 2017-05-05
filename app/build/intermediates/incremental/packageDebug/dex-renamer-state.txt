@@ -1,0 +1,7 @@
+#Fri May 05 16:49:18 EDT 2017
+base.0=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1c2394533161f7bd2caf2d417ea07a62e4737b11
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_24240f9781e8e888086a5f75397f8e6fe643b384\\classes.dex
+base.1=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_24240f9781e8e888086a5f75397f8e6fe643b384
+file.0=C\:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1c2394533161f7bd2caf2d417ea07a62e4737b11\\classes.dex
