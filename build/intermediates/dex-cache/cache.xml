@@ -3,66 +3,102 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Erii\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_a8e08c718fddb0338e44b020b333e9553c6af150\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_92613adecd09de3bbd8042841302333813989e25\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Erii\.android\build-cache\0c61dff6fb43c37ff8721f516e93dc6103af76f4\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eaa189cce57591f59a6d38152708b9c199ad5832\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Erii\.android\build-cache\68baeb1141b554d88c63617bbd854f029782f248\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0085c11309a8d1b2a0446e47f6d3cd767ec076a6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Erii\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_a8e08c718fddb0338e44b020b333e9553c6af150\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e6b277b78436a9215682ecf7dc65667d9d0bd38a">
-        <dex dex="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_308d6c009341263c587224a840ee5f247fa538e7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Erii\.android\build-cache\68baeb1141b554d88c63617bbd854f029782f248\output\jars\libs\internal_impl-23.0.0.jar"
+        jar="C:\Users\Erii\.android\build-cache\ffa62c6a6b15af8db678f3597ebfb63be6ed1bac\output\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="C:\Users\Erii\StudioProjects\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_bdd3aa19cc3d68902d943f97f83e1504eaab0b3f\classes.dex" />
+        <dex dex="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_be7e7689bc59413045187363508df3b6127e6767\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Erii\.android\build-cache\ffa62c6a6b15af8db678f3597ebfb63be6ed1bac\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_be7e7689bc59413045187363508df3b6127e6767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Erii\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_a8e08c718fddb0338e44b020b333e9553c6af150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Erii\.android\build-cache\1bf0a59cbc37f39186fef0f645f50dc4bfa575d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\pre-dexed\debug\classes_b59646d4916221c7657fe446aaa1167c08227a4c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f2d3a5be58165566d3960c11f8830671963ba04">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f299b3c72d5eb02226fe39abffde3386d3e43f84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ee9ed066658f000fa40b04cf0df333f2e062800b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfc82852d6c4715d55d60b2a4b1dec20766f2f6a">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24240f9781e8e888086a5f75397f8e6fe643b384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Erii\.android\build-cache\1bf0a59cbc37f39186fef0f645f50dc4bfa575d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b59646d4916221c7657fe446aaa1167c08227a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Erii\.android\build-cache\ffa62c6a6b15af8db678f3597ebfb63be6ed1bac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\pre-dexed\debug\classes_5829870c700a0ea893662c63b61cd328a8d0c78a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1c2394533161f7bd2caf2d417ea07a62e4737b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Erii\.android\build-cache\ffa62c6a6b15af8db678f3597ebfb63be6ed1bac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5829870c700a0ea893662c63b61cd328a8d0c78a\classes.dex" />
     </item>
 
 </items>

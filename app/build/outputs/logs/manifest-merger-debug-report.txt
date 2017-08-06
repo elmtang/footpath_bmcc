@@ -1,146 +1,168 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:2:1-50:12
 	package
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:3:2-29
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:3:2-29
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:4:2-27
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:3:30-53
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:3:30-53
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:5:2-42:16
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Erii\.android\build-cache\1bf0a59cbc37f39186fef0f645f50dc4bfa575d8\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Erii\.android\build-cache\ffa62c6a6b15af8db678f3597ebfb63be6ed1bac\output\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:5:2-37:16
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Erii\.android\build-cache\2a7149f0d2b8d980f8e835eadf845b812d54198f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Erii\.android\build-cache\28cd3c758f3603a9ff0891aaf1dd558e94e603d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Erii\.android\build-cache\8173ea96827443a7457f5ab599988f72458a58e0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erii\.android\build-cache\2a35870266c560f29d0e6a370a70ff0dcac0924a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Erii\.android\build-cache\9bf7b6bc089c85e1dbb9d35e13b6fefc6a2a992f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Erii\.android\build-cache\29eb9103291a766bd2fd3520932d5c86c7775413\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Erii\.android\build-cache\d4863f9c18fcfe72c75493b60cfc371a6a9e052f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Erii\.android\build-cache\48b17b09296d7416067df74fd0fad158bbfdadab\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Erii\.android\build-cache\f9088fd20148e86a4d9cd8923ffadb5a131e37c5\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:5:50-82
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:5:50-82
 	android:allowBackup
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:6:3-29
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:6:3-29
 	android:icon
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:5:15-49
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:5:15-49
 	android:theme
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:6:30-61
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:6:30-61
 activity#de.uvwxy.footpath.gui.Loader
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:8:3-15:14
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:8:3-15:14
 	android:screenOrientation
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:10:4-40
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:10:4-40
 	android:label
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:8:40-72
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:8:40-72
 	android:configChanges
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:9:4-54
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:9:4-54
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:8:13-39
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:8:13-39
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:11:4-14:20
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:11:4-14:20
 action#android.intent.action.MAIN
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:12:5-57
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:12:5-57
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:12:13-54
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:12:13-54
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:13:5-65
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:13:5-65
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:13:15-62
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:13:15-62
 activity#de.uvwxy.footpath.gui.Calibrator
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:17:3-20:14
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:17:3-20:14
 	android:screenOrientation
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:19:4-40
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:19:4-40
 	android:label
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:17:44-76
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:17:44-76
 	android:configChanges
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:18:4-54
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:18:4-54
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:17:13-43
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:17:13-43
 activity#de.uvwxy.footpath.gui.Navigator
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:22:3-25:14
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:22:3-25:14
 	android:screenOrientation
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:24:4-40
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:24:4-40
 	android:label
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:22:43-75
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:22:43-75
 	android:configChanges
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:23:4-54
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:23:4-54
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:22:13-42
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:22:13-42
 activity#de.uvwxy.footpath.gui.RoomSelectActivity
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:27:3-31:14
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:27:3-31:14
 	android:screenOrientation
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:30:4-40
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:30:4-40
 	android:label
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:28:4-36
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:28:4-36
 	android:configChanges
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:29:4-54
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:29:4-54
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:27:13-51
-activity#de.uvwxy.footpath.gui.NumberSelect
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:33:3-36:14
-	android:screenOrientation
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:35:4-40
-	android:label
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:34:4-34
-	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:33:13-45
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:27:13-51
 activity#de.uvwxy.footpath.vista.MyActivity
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:38:3-41:14
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:33:3-36:14
 	android:screenOrientation
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:40:4-40
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:35:4-40
 	android:label
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:38:46-78
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:33:46-78
 	android:configChanges
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:39:4-54
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:34:4-54
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:38:13-45
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:33:13-45
 uses-sdk
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:43:2-41
-MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Erii\.android\build-cache\1bf0a59cbc37f39186fef0f645f50dc4bfa575d8\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Erii\.android\build-cache\ffa62c6a6b15af8db678f3597ebfb63be6ed1bac\output\AndroidManifest.xml:20:5-43
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:38:2-41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Erii\.android\build-cache\2a7149f0d2b8d980f8e835eadf845b812d54198f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Erii\.android\build-cache\28cd3c758f3603a9ff0891aaf1dd558e94e603d6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Erii\.android\build-cache\8173ea96827443a7457f5ab599988f72458a58e0\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erii\.android\build-cache\2a35870266c560f29d0e6a370a70ff0dcac0924a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Erii\.android\build-cache\9bf7b6bc089c85e1dbb9d35e13b6fefc6a2a992f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Erii\.android\build-cache\29eb9103291a766bd2fd3520932d5c86c7775413\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Erii\.android\build-cache\d4863f9c18fcfe72c75493b60cfc371a6a9e052f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Erii\.android\build-cache\48b17b09296d7416067df74fd0fad158bbfdadab\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Erii\.android\build-cache\f9088fd20148e86a4d9cd8923ffadb5a131e37c5\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Erii\.android\build-cache\2a7149f0d2b8d980f8e835eadf845b812d54198f\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:43:12-38
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:38:12-38
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml
 uses-feature#android.hardware.bluetooth_le
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:44:2-86
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:39:2-86
 	android:required
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:44:61-84
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:39:61-84
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:44:16-60
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:39:16-60
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:46:2-80
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:41:2-80
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:46:19-61
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:41:19-61
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:47:2-94
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:42:2-94
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:47:19-75
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:42:19-75
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:48:2-84
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:43:2-84
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:48:19-65
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:43:19-65
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:49:2-89
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:44:2-89
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:49:19-70
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:44:19-70
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:50:2-89
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:45:2-89
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:50:19-70
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:45:19-70
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:51:2-92
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:46:2-92
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:51:19-73
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:46:19-73
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:52:2-64
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:47:2-64
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:52:19-62
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:47:19-62
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:53:2-70
+ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:48:2-70
 	android:name
-		ADDED from C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\src\main\AndroidManifest.xml:53:19-68
+		ADDED from C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\src\main\AndroidManifest.xml:48:19-68
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Erii\.android\build-cache\2a7149f0d2b8d980f8e835eadf845b812d54198f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Erii\.android\build-cache\28cd3c758f3603a9ff0891aaf1dd558e94e603d6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Erii\.android\build-cache\8173ea96827443a7457f5ab599988f72458a58e0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Erii\.android\build-cache\2a35870266c560f29d0e6a370a70ff0dcac0924a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Erii\.android\build-cache\9bf7b6bc089c85e1dbb9d35e13b6fefc6a2a992f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Erii\.android\build-cache\29eb9103291a766bd2fd3520932d5c86c7775413\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Erii\.android\build-cache\d4863f9c18fcfe72c75493b60cfc371a6a9e052f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Erii\.android\build-cache\48b17b09296d7416067df74fd0fad158bbfdadab\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Erii\.android\build-cache\f9088fd20148e86a4d9cd8923ffadb5a131e37c5\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Erii\.android\build-cache\2a7149f0d2b8d980f8e835eadf845b812d54198f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Erii\.android\build-cache\2a7149f0d2b8d980f8e835eadf845b812d54198f\output\AndroidManifest.xml:26:9-47

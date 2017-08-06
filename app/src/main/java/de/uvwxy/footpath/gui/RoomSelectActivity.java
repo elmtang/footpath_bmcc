@@ -29,6 +29,11 @@ public class RoomSelectActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_room_select);
 
+        getActionBar().setDisplayHomeAsUpEnabled(true);
+        getActionBar().setDisplayShowTitleEnabled(false);
+        getActionBar().setHomeButtonEnabled(true);
+        getActionBar().setDisplayUseLogoEnabled(false);
+
         mListView = (ListView) findViewById(R.id.list);
         mList = new ArrayList<String>();
 
@@ -57,30 +62,13 @@ public class RoomSelectActivity extends Activity {
     }
 
     @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu options from the res/menu/menu_editor.xml file.
-        // This adds menu items to the app bar.
-        getMenuInflater().inflate(R.menu.switch_selector, menu);
-        return true;
-    }
-
-    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // User clicked on a menu option in the app bar overflow menu
         switch (item.getItemId()) {
-            // Respond to a click on the "Save" menu option
-            case R.id.action_switch:
-                startNumberSelectActivity();
+            case android.R.id.home:
                 finish();
                 return true;
         }
         return super.onOptionsItemSelected(item);
     }
-
-    public void startNumberSelectActivity(){
-        Intent roomSelectIntent = new Intent(RoomSelectActivity.this, NumberSelect.class);
-        startActivity(roomSelectIntent);
-    }
-
-
 }

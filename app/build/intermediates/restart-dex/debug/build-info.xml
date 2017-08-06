@@ -5,88 +5,87 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    plugin-version="2.3.1"
-    timestamp="1494017348789"
-    token="1341182936000939330"
+    plugin-version="2.3.3"
+    timestamp="1502038855733"
+    token="3966865587607297868"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="552" />
+        duration="532" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="253" />
+        duration="10" />
     <task
         name="verifier"
-        duration="23" />
+        duration="3" />
 
     <artifact
-        location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1494016199841"
+        timestamp="1502037368897"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1494017348789"
+        timestamp="1502037917594"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Erii\Desktop\GitHub\FootPath_021017\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1502038855733"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Erii\Desktop\GitHub\footpath_bmcc\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Erii\\.android\\build-cache\\2a7149f0d2b8d980f8e835eadf845b812d54198f\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

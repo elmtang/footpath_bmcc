@@ -88,13 +88,13 @@ public class Loader extends Activity {
 
 	public void selectStart(View view){
 		startPressed = true;
-		Intent numbersIntent = new Intent(Loader.this, NumberSelect.class);
+		Intent numbersIntent = new Intent(Loader.this, RoomSelectActivity.class);
 		startActivityForResult(numbersIntent, ROOM_SELECT_ACTIVITY_RESULT_CODE);
 	}
 
 	public void selectDestination(View view){
 		startPressed = false;
-		Intent numbersIntent = new Intent(Loader.this, NumberSelect.class);
+		Intent numbersIntent = new Intent(Loader.this, RoomSelectActivity.class);
 		startActivityForResult(numbersIntent, ROOM_SELECT_ACTIVITY_RESULT_CODE);
 	}
 
@@ -118,16 +118,14 @@ public class Loader extends Activity {
 					startingRoom = returnedString;
 					startTextView = (TextView) findViewById(R.id.button_select_start);
 					startTextView.setText(returnedString);
-					startTextView.setTextSize(60);
-					startTextView.setBackgroundColor(Color.parseColor("#3D5AFE"));
+					startTextView.setTextSize(48);
 					Toast.makeText(Loader.this, "Your starting room number is "
 							+ returnedString, Toast.LENGTH_LONG).show();
 				} else {
 					destinationRoom = returnedString;
 					TextView destinationTextView = (TextView) findViewById(R.id.button_select_destination);
 					destinationTextView.setText(returnedString);
-					destinationTextView.setTextSize(60);
-					destinationTextView.setBackgroundColor(Color.parseColor("#F44336"));
+					destinationTextView.setTextSize(48);
 					Toast.makeText(Loader.this, "Your destination room number is "
 							+ returnedString, Toast.LENGTH_LONG).show();
 				}
@@ -165,7 +163,8 @@ public class Loader extends Activity {
 	}
 
 	public void startNavigation(View view){
-		if(!startingRoom.equals(destinationRoom)) {
+		if(startingRoom != null
+				&& destinationRoom != null && !startingRoom.equals(destinationRoom)) {
 			Toast.makeText(Loader.this, "Starting Navigation", Toast.LENGTH_LONG).show();
 			Log.i("FOOTPATH", "Starting navigation intent");
 			// Create intent for navigation
@@ -178,7 +177,11 @@ public class Loader extends Activity {
 			// Start intent for navigation
 			startActivityForResult(intentNavigator, 1);
 		}else{
-			Toast.makeText(Loader.this, "Your starting position cannot be the same as your destination. \nPlease reenter.", Toast.LENGTH_LONG).show();
+			if(startingRoom == null || destinationRoom == null)
+				Toast.makeText(Loader.this, "Please make sure to select your starting position and destination before starting your trip.", Toast.LENGTH_SHORT).show();
+			else
+				Toast.makeText(Loader.this, "Your starting position cannot be the same as your destination. \nPlease reenter.", Toast.LENGTH_SHORT).show();
+
 		}
 	}
 

@@ -2,93 +2,63 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
-	android:background="@android:color/white"
-	android:orientation="vertical">
+	android:orientation="vertical"
+	android:layout_margin="16dp">
 
-	<LinearLayout
-		android:layout_width="match_parent"
-		android:layout_height="0dp"
-		android:layout_weight="1"
-		android:layout_margin="10dp">
-
-		<TextView
+		<Button
 			android:gravity="center"
 			android:textAlignment="gravity"
 			android:id="@+id/button_select_start"
-			android:background="@drawable/rounded_textview"
+			android:background="@color/colorPrimary"
 			android:text="Select Starting Position"
-			android:textAllCaps="true"
-			android:textSize="24dp"
 			android:textColor="@android:color/white"
-			android:layout_width="0dp"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
 			android:layout_weight="1"
-			android:textStyle="bold"
-			android:layout_height="match_parent"
-			android:layout_marginRight="5dp"
-			android:onClick="selectStart"/>
+			android:onClick="selectStart"
+			android:layout_marginBottom="8dp"/>
 
-		<TextView
+		<Button
 			android:gravity="center"
 			android:textAlignment="gravity"
-			android:background="@drawable/rounded_textview"
+			android:background="@color/colorPrimary"
 			android:id="@+id/button_select_destination"
 			android:text="Select Destination"
-			android:textAllCaps="true"
 			android:textColor="@android:color/white"
-			android:textStyle="bold"
-			android:textSize="24dp"
-			android:layout_width="0dp"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
 			android:layout_weight="1"
-			android:layout_height="match_parent"
-			android:layout_marginLeft="5dp"
-			android:onClick="selectDestination"/>
-
-	</LinearLayout>
-
-	<LinearLayout
-		android:layout_width="match_parent"
-		android:layout_height="0dp"
-		android:layout_weight="1"
-		android:layout_margin="10dp">
+			android:onClick="selectDestination"
+			android:layout_marginBottom="8dp"/>
 
 		<Button
-			android:background="@drawable/rounded_textview"
+			android:background="@color/colorPrimary"
 			android:id="@+id/button_turnOn_left_vista"
 			android:text="Turn on Left Vista"
-			android:textSize="24dp"
-			android:layout_width="0dp"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
 			android:layout_weight="1"
-			android:layout_height="match_parent"
-			android:layout_marginRight="5dp"/>
+			android:layout_marginBottom="8dp"
+			android:textColor="@android:color/white"/>
 
 		<Button
-			android:background="@drawable/rounded_textview"
+			android:background="@color/colorPrimary"
 			android:id="@+id/button_turnOn_right_vista"
 			android:text="Turn on Right Vista"
-			android:layout_width="0dp"
-			android:textSize="24dp"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
 			android:layout_weight="1"
-			android:layout_height="match_parent"
-			android:layout_marginLeft="5dp"/>
-
-	</LinearLayout>
-
-	<LinearLayout
-		android:layout_width="match_parent"
-		android:layout_height="0dp"
-		android:layout_weight="1"
-		android:layout_margin="10dp">
+			android:layout_marginBottom="8dp"
+			android:textColor="@android:color/white"/>
 
 		<Button
-			android:background="@drawable/rounded_textview"
+			android:background="@color/colorPrimary"
 			android:id="@+id/button_start"
 			android:text="Start Your Trip"
-			android:textSize="24dp"
-			android:layout_width="0dp"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
 			android:layout_weight="1"
-			android:layout_height="match_parent"
-			android:onClick="startNavigation"/>
-
-	</LinearLayout>
+			android:onClick="startNavigation"
+			android:textColor="@android:color/white"/>
 
 </LinearLayout>

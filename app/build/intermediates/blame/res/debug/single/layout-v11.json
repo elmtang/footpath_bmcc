@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Erii\\.android\\build-cache\\2a7149f0d2b8d980f8e835eadf845b812d54198f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Erii\\.android\\build-cache\\2a7149f0d2b8d980f8e835eadf845b812d54198f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Erii\\.android\\build-cache\\2a7149f0d2b8d980f8e835eadf845b812d54198f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Erii\\.android\\build-cache\\2a7149f0d2b8d980f8e835eadf845b812d54198f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Erii\\.android\\build-cache\\2a7149f0d2b8d980f8e835eadf845b812d54198f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Erii\\.android\\build-cache\\2a7149f0d2b8d980f8e835eadf845b812d54198f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

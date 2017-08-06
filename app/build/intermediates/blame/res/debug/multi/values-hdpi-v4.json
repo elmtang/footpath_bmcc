@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Erii\\Desktop\\GitHub\\FootPath_021017\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "C:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\Erii\\.android\\build-cache\\1bf0a59cbc37f39186fef0f645f50dc4bfa575d8\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "file": "C:\\Users\\Erii\\.android\\build-cache\\2a7149f0d2b8d980f8e835eadf845b812d54198f\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 282,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 13,
-                        "endOffset": 554
+                        "endOffset": 327
                     }
                 }
             }
