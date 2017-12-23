@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
 	android:orientation="vertical"
@@ -31,25 +32,26 @@
 			android:onClick="selectDestination"
 			android:layout_marginBottom="8dp"/>
 
-		<Button
-			android:background="@color/colorPrimary"
-			android:id="@+id/button_turnOn_left_vista"
-			android:text="Turn on Left Vista"
-			android:layout_width="match_parent"
-			android:layout_height="0dp"
-			android:layout_weight="1"
-			android:layout_marginBottom="8dp"
-			android:textColor="@android:color/white"/>
+	<ToggleButton
+		android:id="@+id/toggleScan"
+		android:textSize="24sp"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="1"
+		android:checked="false"
+		android:onClick="scanLowEnergyDevice"
+		android:text="Turn on Vista"
+		android:textOff="Start Scanning Vista"
+		android:textOn="Scanning Now"/>
 
-		<Button
-			android:background="@color/colorPrimary"
-			android:id="@+id/button_turnOn_right_vista"
-			android:text="Turn on Right Vista"
-			android:layout_width="match_parent"
-			android:layout_height="0dp"
-			android:layout_weight="1"
-			android:layout_marginBottom="8dp"
-			android:textColor="@android:color/white"/>
+	<TextView
+		android:id="@+id/data"
+		android:text="Vista Reading"
+		android:textSize="24sp"
+		android:gravity="center"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="1" />
 
 		<Button
 			android:background="@color/colorPrimary"

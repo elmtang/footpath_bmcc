@@ -1,4 +1,4 @@
-#Sun Aug 06 12:45:27 EDT 2017
+#Sat Dec 23 13:21:15 EST 2017
 base.0=C\:\\Users\\Erii\\Desktop\\GitHub\\footpath_bmcc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f299b3c72d5eb02226fe39abffde3386d3e43f84
 renamed.1=classes.dex
 renamed.0=classes2.dex

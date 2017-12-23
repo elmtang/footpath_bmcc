@@ -316,7 +316,6 @@ public class Graph {
 		}
 	}
 
-	
 	public Stack<GraphNode> getShortestPath(String from, String to){
 		GraphNode gnFrom = getNodeFromName(from);
 		GraphNode gnTo = getNodeFromName(to);
@@ -412,7 +411,7 @@ public class Graph {
 					previous[v_i] = u;
 				}
 			}
-			Log.i("nOuIq: ", Integer.toString(countNei) );
+			Log.i("nOuIq: ", Integer.toString(countNei));
 		}
 		Log.i("count end: ", Integer.toString(count));
 		return null;
@@ -438,7 +437,7 @@ public class Graph {
 			} else if(edge.getNode1().equals(node)){						// node 1 is node
 				buf = edge.getNode0();										// add node0
 			}
-																// if !outside, only indoor nodes are allowed
+			// if !outside, only indoor nodes are allowed
 				if(buf!=null){
 					if(!ret.contains(buf) && !visited[getNodePosInIdArray(buf)]){
 						ret.add(buf);										// add buf only once, iff not visited

@@ -564,8 +564,6 @@ int id buttonPanel 0x7f0c002e
 int id button_select_destination 0x7f0c007d
 int id button_select_start 0x7f0c007c
 int id button_start 0x7f0c0080
-int id button_turnOn_left_vista 0x7f0c007e
-int id button_turnOn_right_vista 0x7f0c007f
 int id cancel_action 0x7f0c0069
 int id checkbox 0x7f0c003e
 int id chronometer 0x7f0c0071
@@ -573,6 +571,7 @@ int id collapseActionView 0x7f0c001e
 int id contentPanel 0x7f0c0031
 int id custom 0x7f0c0038
 int id customPanel 0x7f0c0037
+int id data 0x7f0c007f
 int id decor_content_parent 0x7f0c0045
 int id default_activity_button 0x7f0c002a
 int id disableHome 0x7f0c000c
@@ -651,6 +650,7 @@ int id time 0x7f0c0070
 int id title 0x7f0c002d
 int id titleDividerNoCustom 0x7f0c003c
 int id title_template 0x7f0c003a
+int id toggleScan 0x7f0c007e
 int id top 0x7f0c0023
 int id topPanel 0x7f0c0039
 int id tvFilter 0x7f0c005a

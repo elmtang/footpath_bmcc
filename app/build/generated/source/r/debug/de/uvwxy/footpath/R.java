@@ -1882,8 +1882,6 @@ containing a value of this type.
         public static final int button_select_destination=0x7f0c007d;
         public static final int button_select_start=0x7f0c007c;
         public static final int button_start=0x7f0c0080;
-        public static final int button_turnOn_left_vista=0x7f0c007e;
-        public static final int button_turnOn_right_vista=0x7f0c007f;
         public static final int cancel_action=0x7f0c0069;
         public static final int checkbox=0x7f0c003e;
         public static final int chronometer=0x7f0c0071;
@@ -1891,6 +1889,7 @@ containing a value of this type.
         public static final int contentPanel=0x7f0c0031;
         public static final int custom=0x7f0c0038;
         public static final int customPanel=0x7f0c0037;
+        public static final int data=0x7f0c007f;
         public static final int decor_content_parent=0x7f0c0045;
         public static final int default_activity_button=0x7f0c002a;
         public static final int disableHome=0x7f0c000c;
@@ -1969,6 +1968,7 @@ containing a value of this type.
         public static final int title=0x7f0c002d;
         public static final int titleDividerNoCustom=0x7f0c003c;
         public static final int title_template=0x7f0c003a;
+        public static final int toggleScan=0x7f0c007e;
         public static final int top=0x7f0c0023;
         public static final int topPanel=0x7f0c0039;
         public static final int tvFilter=0x7f0c005a;
